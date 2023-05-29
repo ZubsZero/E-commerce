@@ -76,7 +76,7 @@ body {
 /* container */
 
 /* media queries */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   body {
     background-position-y: 0;
     background-size: cover;
