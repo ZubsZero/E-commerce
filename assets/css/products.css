@@ -80,3 +80,15 @@ nav {
     
     
   }
+
+  @media only screen and (max-width: 500px){ 
+    .container {
+      margin-left: 30px !important;
+      
+    }
+
+    .cards {
+      width: 170px;
+    }
+    
+  }
