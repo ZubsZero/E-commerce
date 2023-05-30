@@ -5,7 +5,7 @@
   font-family: "Amatic SC", cursive}
 
   body {
-    background-image: url(https://i.postimg.cc/KYt6LGN2/shopping-cart-black-background-with-copy-space.jpg) !important ;
+    background-color: rgb(35, 34, 34)!important ;
     background-size: cover;
     
 ;
@@ -42,3 +42,14 @@ h1 {
 .text-body-emphasis {
   font-size:  50px !important;
 }
+
+  footer button {
+    width: 60px;
+    height: 50px;
+    background-color: #383838 !important;
+    border-radius: 20px;
+  }
+
+    button:hover {
+      background-color: rgb(16, 107, 211) !important;
+    }
