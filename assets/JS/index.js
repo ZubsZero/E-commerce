@@ -1,5 +1,5 @@
-const titles =["PS5", "Hosepipe", "Shovel", "cutlery" , "pc" , "couch"];
-const descriptionarray =["R12,000", "R300", "R600", "R280", "R14,000", "R3000"];
+const titles =["PS5", "Hosepipe", "Shovel", "cutlery" , "pc" , "couch", "CallOfDuty", "Table", "Rake", "PS5controller", "samsungS23", "glasses"];
+const descriptionarray =["R12,000", "R300", "R600", "R280", "R14,000", "R3000", "R999", "R4200", "R300" , "R1300", "R23,000","R700"];
 
 const dynamic = document.querySelector('.container');  
 for (var i = 0; i < titles.length; i++) {
