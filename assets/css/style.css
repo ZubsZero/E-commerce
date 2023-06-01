@@ -2,7 +2,9 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: "Amatic SC", cursive}
+  font-family: "Amatic SC", cursive;
+ 
+}
 
   body {
     background-color: rgb(35, 34, 34)!important ;
@@ -26,30 +28,24 @@ nav {
 }
 
 .nav-link.active.text-light:hover {
-  background-color: white !important;
+  background-color: rgb(17, 241, 226) !important;
   color: black !important;
 }
 
 .nav-link.text-light:hover {
-  background-color: white !important;
+  background-color: rgb(17, 241, 226) !important;
   color: black !important;
-}
-
-h1 {
-  font-size: 30px !important;
-}
-
-.text-body-emphasis {
-  font-size:  50px !important;
 }
 
   footer button {
     width: 60px;
     height: 50px;
     background-color: #383838 !important;
+    
     border-radius: 20px;
   }
 
     button:hover {
-      background-color: rgb(16, 107, 211) !important;
+      background-color: rgb(17, 241, 226) !important;
     }
+

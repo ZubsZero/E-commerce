@@ -10,7 +10,7 @@ for (var i = 0; i < titles.length; i++) {
         <p>
           ${descriptionarray[i]}
         </p>
-        <a class="showmore" href="#">ReadMore</a>
+        <a class="showmore text-decoration-none" href="#">ReadMore</a>
       </div>
     </div>` + fetch ; 
     const background = document.getElementById(`cards${i}`);
